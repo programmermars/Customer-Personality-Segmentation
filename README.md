@@ -34,12 +34,12 @@ The workflow transforms raw data into actionable business insights:
 ### 1. 3D Cluster Visualization
 *Visualizing the separation of customer groups in PCA space.*
 
-![3D Cluster Plot](figures/3d_cluster_plot.png)
+![3D Cluster Plot](Customer-Personality-Segmentation/figures/3d_cluster_plot.png)
 
 ### 2. Business Insights: Income vs. Spending
 *A clear positive correlation, but with distinct behavioral boundaries.*
 
-![Income vs Spent](figures/income_vs_spent.png)
+![Income vs Spent](Customer-Personality-Segmentation/figures/income_vs_spent.png)
 
 ---
 
