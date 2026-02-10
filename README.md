@@ -64,7 +64,7 @@ Based on the cluster analysis, we recommend the following strategies:
 ## 👤 Author
 **CHONG JIA YOU**
 *Bachelor of Science in Industrial Statistics, UTHM*
-* [LinkedIn Profile](www.linkedin.com/in/jia-you-chong-860701356)
+* [LinkedIn Profile]((https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jia-you-chong-860701356))
 ## 👏 Acknowledgements
 This project was inspired by the work of **Karnika Kapoor** on Kaggle. 
 Original Notebook: [Customer Segmentation: Clustering 🛍️🛒🛒](https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering)
